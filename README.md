@@ -11,7 +11,7 @@ Tipuri de obiect:
     * anul publicării
 2. Fișă pentru carte
     * ID carte
-    * locații unde este disponibilă
+    * locație
     * stare (disponibilă/împrumutată)
 3. Autor
     * ID
